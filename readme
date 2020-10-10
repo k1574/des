@@ -1,0 +1,8 @@
+# des
+des - decorative escape sequences.
+
+
+## Description
+
+Prints escape sequences which decorate text to
+standard output (colors, bold, underline etc).
