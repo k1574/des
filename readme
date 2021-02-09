@@ -1,0 +1,10 @@
+des
+===
+
+des - print decorative escape sequences to standard output.
+
+Usage
+-----
+	% des -l # To get list of escape sequences.
+	% des [escape_sequence_name]
+
