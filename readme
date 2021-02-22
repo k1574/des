@@ -1,10 +1,11 @@
-des
+ades
 ===
 
-des - print decorative escape sequences to standard output.
+ades - print ANSI decorative escape sequences to standard output.
 
 Usage
 -----
-	% des -l # To get list of escape sequences.
-	% des [escape_sequence_name]
+
+	% ades -l # To get list of escape sequences.
+	% ades [escape_sequence_name]
 
